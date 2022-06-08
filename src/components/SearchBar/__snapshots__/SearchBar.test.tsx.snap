@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchBar /> should match snapshot 1`] = `
+<form
+  aria-label="search form"
+  className="sc-bczRLJ fmGyHp"
+  onSubmit={[Function]}
+>
+  <input
+    aria-label="search input"
+    className="sc-gsnTZi gcnwvc"
+    onChange={[Function]}
+    placeholder="Search by name"
+    value=""
+  />
+  <button
+    className="sc-dkzDqf fdORFM"
+    type="submit"
+  >
+    <svg
+      fill="none"
+      height={25}
+      width={25}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle
+        cx={11.311}
+        cy={11.31}
+        r={8.056}
+        stroke="#3A434D"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        transform="rotate(-23.025 11.31 11.31)"
+      />
+      <path
+        d="m17.007 17.006 6.248 6.249"
+        stroke="#3A434D"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+      />
+    </svg>
+  </button>
+</form>
+`;

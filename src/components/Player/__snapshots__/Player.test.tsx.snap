@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Player /> should match snapshot 1`] = `
+<div
+  className="sc-bczRLJ giaMah"
+  data-testid="player-card"
+>
+  <div
+    className="sc-dkzDqf gXsSwv"
+  >
+    <img
+      alt="Player avatar"
+      className="sc-hKMtZM glFvRz"
+      src="https://www.adoptapet.com/blog/uploads/2013/01/Mango-cat-collar.jpg"
+    />
+  </div>
+  <div
+    className="sc-gsnTZi fcSHXD"
+  >
+    <h3
+      className="sc-eCYdqJ itSnir"
+    >
+      Ron Swanson
+    </h3>
+    <p
+      className="sc-jSMfEi jHockD"
+    >
+      Last Activity: 
+      2020-02-20
+    </p>
+    <p
+      className="sc-jSMfEi jHockD"
+    >
+      Unique Opponents: 
+      3
+    </p>
+  </div>
+  <div
+    className="sc-dkzDqf cwMyMC"
+  >
+    <div
+      className="sc-gKXOVf mRcIl"
+    >
+      <p
+        className="sc-iBkjds frpA-dj"
+      >
+        0
+      </p>
+    </div>
+  </div>
+</div>
+`;

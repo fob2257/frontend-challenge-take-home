@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PlayerList /> should match snapshot 1`] = `
+<div
+  className="sc-bczRLJ jqvsjo"
+>
+  <div
+    className="sc-gsnTZi erwHMT"
+    data-testid="player-card"
+  >
+    <div
+      className="sc-hKMtZM ejXSXs"
+    >
+      <img
+        alt="Player avatar"
+        className="sc-eCYdqJ bChFga"
+        src="https://i1.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?resize=1320%2C1320&ssl=1"
+      />
+    </div>
+    <div
+      className="sc-dkzDqf hGYhPw"
+    >
+      <h3
+        className="sc-jSMfEi hPcSdJ"
+      >
+        Connor Gamble
+      </h3>
+      <p
+        className="sc-gKXOVf jjpprm"
+      >
+        Last Activity: 
+        2020-02-23
+      </p>
+      <p
+        className="sc-gKXOVf jjpprm"
+      >
+        Unique Opponents: 
+        1
+      </p>
+    </div>
+    <div
+      className="sc-hKMtZM kxljDR"
+    >
+      <div
+        className="sc-iBkjds fQXisy"
+      >
+        <p
+          className="sc-ftvSup beTxDw"
+        >
+          0.5
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsnTZi erwHMT"
+    data-testid="player-card"
+  >
+    <div
+      className="sc-hKMtZM ejXSXs"
+    >
+      <img
+        alt="Player avatar"
+        className="sc-eCYdqJ bChFga"
+        src="https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Ffansided.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2019%2F05%2F529020720.jpeg"
+      />
+    </div>
+    <div
+      className="sc-dkzDqf hGYhPw"
+    >
+      <h3
+        className="sc-jSMfEi hPcSdJ"
+      >
+        Sinead Bailey
+      </h3>
+      <p
+        className="sc-gKXOVf jjpprm"
+      >
+        Last Activity: 
+        2020-02-22
+      </p>
+      <p
+        className="sc-gKXOVf jjpprm"
+      >
+        Unique Opponents: 
+        2
+      </p>
+    </div>
+    <div
+      className="sc-hKMtZM kxljDR"
+    >
+      <div
+        className="sc-iBkjds kEXRNP"
+      >
+        <p
+          className="sc-ftvSup beTxDw"
+        >
+          0
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gsnTZi erwHMT"
+    data-testid="player-card"
+  >
+    <div
+      className="sc-hKMtZM ejXSXs"
+    >
+      <img
+        alt="Player avatar"
+        className="sc-eCYdqJ bChFga"
+        src="https://www.adoptapet.com/blog/uploads/2013/01/Mango-cat-collar.jpg"
+      />
+    </div>
+    <div
+      className="sc-dkzDqf hGYhPw"
+    >
+      <h3
+        className="sc-jSMfEi hPcSdJ"
+      >
+        Austen Barrett
+      </h3>
+      <p
+        className="sc-gKXOVf jjpprm"
+      >
+        Last Activity: 
+        2020-02-20
+      </p>
+      <p
+        className="sc-gKXOVf jjpprm"
+      >
+        Unique Opponents: 
+        1
+      </p>
+    </div>
+    <div
+      className="sc-hKMtZM kxljDR"
+    >
+      <div
+        className="sc-iBkjds fQXisy"
+      >
+        <p
+          className="sc-ftvSup beTxDw"
+        >
+          0.7
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
